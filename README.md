@@ -3,13 +3,14 @@
 <p> 
 The XML file containing the TCMB's exchange rates is made into service.
 
-JAVA, SPRING BOOT, POST,REST API technologies are used in the application.
+JAVA, SPRING BOOT, POSTMAN, REST API, Jsoup technologies are used in the application.
 </p>
 
 # Software Versions:
 - Java 8
 - Spring 2.17.3
 - Postman
+- Jsoup
    
 # Application Features:
 - [x] User Login
